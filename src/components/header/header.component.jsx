@@ -15,11 +15,11 @@ import './header.styles.scss';
 const Header = ({currentUser,hidden}) => {
   return (
     <div className='header'>
-      <Link className='logo-container' to="/">
+      <Link className='logo-container' to="/Gebhalytask">
         <Logo className='logo'/>
       </Link>
       <div className="options">
-        <Link className="option" to='/'>
+        <Link className="option" to='/Gebhalytask'>
           SHOP
         </Link>
         <CartIcon/>
