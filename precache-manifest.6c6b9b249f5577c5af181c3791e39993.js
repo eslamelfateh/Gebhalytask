@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf475924d8f94915d30fe90c68b5f272",
+    "revision": "e91d9d07f43a9783246bfef85f5d4810",
     "url": "/Gebhalytask/index.html"
   },
   {
-    "revision": "8391066470929353f293",
+    "revision": "ed96639f1cf9ffece882",
     "url": "/Gebhalytask/static/css/main.7de7441b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Gebhalytask/static/js/2.a57d814f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8391066470929353f293",
-    "url": "/Gebhalytask/static/js/main.9422313d.chunk.js"
+    "revision": "ed96639f1cf9ffece882",
+    "url": "/Gebhalytask/static/js/main.0d61448b.chunk.js"
   },
   {
     "revision": "20f81a531d130b4ef060",

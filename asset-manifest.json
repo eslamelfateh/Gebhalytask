@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Gebhalytask/static/css/main.7de7441b.chunk.css",
-    "main.js": "/Gebhalytask/static/js/main.9422313d.chunk.js",
-    "main.js.map": "/Gebhalytask/static/js/main.9422313d.chunk.js.map",
+    "main.js": "/Gebhalytask/static/js/main.0d61448b.chunk.js",
+    "main.js.map": "/Gebhalytask/static/js/main.0d61448b.chunk.js.map",
     "runtime-main.js": "/Gebhalytask/static/js/runtime-main.f2e34c7e.js",
     "runtime-main.js.map": "/Gebhalytask/static/js/runtime-main.f2e34c7e.js.map",
     "static/js/2.a57d814f.chunk.js": "/Gebhalytask/static/js/2.a57d814f.chunk.js",
     "static/js/2.a57d814f.chunk.js.map": "/Gebhalytask/static/js/2.a57d814f.chunk.js.map",
     "index.html": "/Gebhalytask/index.html",
-    "precache-manifest.7841bf6730d252d5eb567f0488482bf8.js": "/Gebhalytask/precache-manifest.7841bf6730d252d5eb567f0488482bf8.js",
+    "precache-manifest.6c6b9b249f5577c5af181c3791e39993.js": "/Gebhalytask/precache-manifest.6c6b9b249f5577c5af181c3791e39993.js",
     "service-worker.js": "/Gebhalytask/service-worker.js",
     "static/css/main.7de7441b.chunk.css.map": "/Gebhalytask/static/css/main.7de7441b.chunk.css.map",
     "static/js/2.a57d814f.chunk.js.LICENSE.txt": "/Gebhalytask/static/js/2.a57d814f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f2e34c7e.js",
     "static/js/2.a57d814f.chunk.js",
     "static/css/main.7de7441b.chunk.css",
-    "static/js/main.9422313d.chunk.js"
+    "static/js/main.0d61448b.chunk.js"
   ]
 }
